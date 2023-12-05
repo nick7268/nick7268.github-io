@@ -1,1 +1,30 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+}
 
+nav {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+header {
+  text-align: center;
+}
+
+hero {
+  background-image: url(image.jpg);
+  background-size: cover;
+  height: 500px;
+}
+
+main {
+  margin: 0 auto;
+  width: 800px;
+}
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
